@@ -1,4 +1,4 @@
-// IN c++
+
 #include <iostream>
 using namespace std;
 int secondLargest(int arr[], int n) {
@@ -27,5 +27,3 @@ int main() {
     else
         cout << "Second largest : " << arr[second_Largest];
 }
-//AVANISH KUMAR GUPTA 
-// Mobile- 8382026262
