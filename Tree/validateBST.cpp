@@ -11,6 +11,7 @@ if (root->data>=min && root->data<=max){
 else return false;
 }
 bool validateBST (BinaryTreeNode <int>*root){
+      return isBST(root, INT_MIN, INT_MAX);
 
 }
 //https://www.naukri.com/code360/problems/validate-bst_799483?leftPanelTab=0
